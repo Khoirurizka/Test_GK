@@ -1,5 +1,6 @@
 just test(){
- Sub A-B
+   Sub A-B
    Add a+B
+   Read A*B
    Read A/B
 }
